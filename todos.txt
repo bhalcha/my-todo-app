@@ -1,0 +1,3 @@
+prepare
+clean
+do code
